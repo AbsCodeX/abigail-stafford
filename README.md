@@ -9,8 +9,8 @@ Revenue Cycle Analytics | Epic Go-Live Support | Python & AI Automation | Open t
 13+ years of progressive experience in healthcare revenue cycle operations, analytics, and automation. Passionate about building scalable systems that reduce manual effort and deliver measurable financial impact.
 
 - **Location**: Tyler, TX (Fully Remote)
-- **Contact**: 979-595-7136 | afaske92@gmail.com
-- **LinkedIn**: [linkedin.com/in/abigail-stafford-2955b5a3](https://www.linkedin.com/in/abigail-stafford-2955b5a3)
+- **Contact**: abigail.stafford@outlook.com | [abigailstafford.pro](https://abigailstafford.pro)
+- **LinkedIn**: [linkedin.com/in/abigail-stafford-tx](https://www.linkedin.com/in/abigail-stafford-tx)
 
 ## Core Competencies
 
@@ -23,7 +23,9 @@ Revenue Cycle Analytics | Epic Go-Live Support | Python & AI Automation | Open t
 
 ## Featured Work
 
-See [healthcare-revenue-cycle-analytics](https://github.com/AbsCodeX/healthcare-revenue-cycle-analytics) for detailed portfolio.
+- [analytics-toolkit](https://github.com/AbsCodeX/analytics-toolkit) — the training-rollout analytics operation: SQL warehouse, gated daily pipeline, self-building Excel deliverables (sanitized template)
+- [healthcare-ai-team](https://github.com/AbsCodeX/healthcare-ai-team) — multi-agent AI system designed as a healthcare analytics department
+- Full portfolio: [abigailstafford.pro](https://abigailstafford.pro)
 
 ## Education
 
